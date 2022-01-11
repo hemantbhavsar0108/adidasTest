@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="26.287">
+<testcase classname="Validate pet store functionaility" name="Get  pet details based on status" time="6.459">
+<system-out><![CDATA[Given Access get pet store method...........................................passed
+When Get pet information based on status "available" method  executed.......passed
+Then Validate response status code for get pet status method execution......passed
+Then Validate the reponse body for get pet status method execution..........passed
+Then Validate the response header for get pet status method execution.......passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate pet store functionaility" name="Create new pet" time="0.927">
+<system-out><![CDATA[Given Access create pet store method........................................passed
+When Create new pet method  executed with id "121" and name "name_pet_121" and status "available".passed
+Then Validate response status code for Create new pet execution.............passed
+Then Validate the reponse body for Create new pet execution.................passed
+Then Validate the response header for Create new pet method execution.......passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate pet store functionaility" name="Update new pet" time="1.952">
+<system-out><![CDATA[Given Access Update pet store method........................................passed
+When Update new pet method  executed with id "121" and name "name_pet_121" and field "status" with "sold".passed
+Then Validate response status code "200" for update new pet execution.......passed
+Then Validate the reponse body with id "121" for update new pet execution...passed
+Then Validate the response header for update new pet method execution.......passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate pet store functionaility" name="Delete pet information" time="15.307">
+<system-out><![CDATA[Given Access delete pet store method........................................passed
+When Delete pet method  executed with id "121"..............................passed
+Then Validate response status code "200" for delete pet execution...........passed
+Then Validate the reponse body with message "deleted" for delete pet execution.passed
+Then Validate the response header for delete pet method execution...........passed
+]]></system-out>
+</testcase>
+</testsuite>
