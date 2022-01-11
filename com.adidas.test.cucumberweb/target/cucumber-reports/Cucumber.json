@@ -1,0 +1,284 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-01-11T11:34:03.605Z",
+        "line": 3,
+        "name": "Add selected product to cart",
+        "description": "",
+        "id": "validate-pet-store-functionaility;add-selected-product-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 15414000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Access Product selection url is accessed",
+            "match": {
+              "location": "stepdefinition.StepDefinition.access_Product_selection_url_is_accessed()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 773000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "select first product \"Sony vaio i5\" from displayed product",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sony vaio i5\"",
+                  "offset": 21
+                }
+              ],
+              "location": "stepdefinition.StepDefinition.select_first_product_from_displayed_product(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2756000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Add first product to cart",
+            "match": {
+              "location": "stepdefinition.StepDefinition.add_first_product_to_cart()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2157000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Validate that correct first product \"Sony vaio i5\" is selected",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sony vaio i5\"",
+                  "offset": 36
+                }
+              ],
+              "location": "stepdefinition.StepDefinition.validate_that_correct_first_product_is_selected(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2708000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Navigate to product selection home page",
+            "match": {
+              "location": "stepdefinition.StepDefinition.navigate_to_product_selection_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5798000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "select second product \"Dell i7 8gb\" from displayed product",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dell i7 8gb\"",
+                  "offset": 22
+                }
+              ],
+              "location": "stepdefinition.StepDefinition.select_second_product_from_displayed_product(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2726000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Add second product to cart",
+            "match": {
+              "location": "stepdefinition.StepDefinition.add_second_product_to_cart()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2146000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Validate that correct second product \"Dell i7 8gb\" is selected",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dell i7 8gb\"",
+                  "offset": 37
+                }
+              ],
+              "location": "stepdefinition.StepDefinition.validate_that_correct_second_product_is_selected(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5089000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Navigate to cart page",
+            "match": {
+              "location": "stepdefinition.StepDefinition.navigate_to_cart_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Delete second product \"Dell i7 8gb\" from cart selection and Validate deleted product",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dell i7 8gb\"",
+                  "offset": 22
+                }
+              ],
+              "location": "stepdefinition.StepDefinition.delete_second_product_from_cart_selection_and_Validat_deleted_product(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4263000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Place the order",
+            "match": {
+              "location": "stepdefinition.StepDefinition.place_the_order()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 15226000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Fill form details with name \"name\" and country \"country\" and city \"city\" and card \"3435\" and month \"12\" and year \"2022\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"name\"",
+                  "offset": 28
+                },
+                {
+                  "val": "\"country\"",
+                  "offset": 47
+                },
+                {
+                  "val": "\"city\"",
+                  "offset": 66
+                },
+                {
+                  "val": "\"3435\"",
+                  "offset": 82
+                },
+                {
+                  "val": "\"12\"",
+                  "offset": 99
+                },
+                {
+                  "val": "\"2022\"",
+                  "offset": 113
+                }
+              ],
+              "location": "stepdefinition.StepDefinition.fill_form_details_with_name_and_country_and_city_and_card_and_month_and_year(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12523000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Purcase the Order",
+            "match": {
+              "location": "stepdefinition.StepDefinition.purcase_the_Order()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7252000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Validate purchase id and amount in purchase order confirmation message",
+            "match": {
+              "location": "stepdefinition.StepDefinition.validate_purchase_id_and_amount_in_purchase_order_confirmation_message()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2136000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Close the Browser",
+            "match": {
+              "location": "stepdefinition.StepDefinition.close_the_Browser()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 190000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Update test data file",
+            "match": {
+              "location": "stepdefinition.StepDefinition.update_test_data_file()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Generate HTML report",
+            "match": {
+              "location": "stepdefinition.StepDefinition.generate_HTML_report()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Validate pet store functionaility",
+    "description": "",
+    "id": "validate-pet-store-functionaility",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/SelectProductsAndAddToCart.feature",
+    "tags": []
+  }
+]

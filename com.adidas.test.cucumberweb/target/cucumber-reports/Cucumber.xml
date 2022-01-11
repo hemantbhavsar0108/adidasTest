@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="82.48">
+<testcase classname="Validate pet store functionaility" name="Add selected product to cart" time="81.272">
+<system-out><![CDATA[Given Access Product selection url is accessed..............................passed
+When select first product "Sony vaio i5" from displayed product.............passed
+Then Add first product to cart..............................................passed
+And Validate that correct first product "Sony vaio i5" is selected..........passed
+Then Navigate to product selection home page................................passed
+And select second product "Dell i7 8gb" from displayed product..............passed
+Then Add second product to cart.............................................passed
+And Validate that correct second product "Dell i7 8gb" is selected..........passed
+Then Navigate to cart page..................................................passed
+Then Delete second product "Dell i7 8gb" from cart selection and Validate deleted product.passed
+Then Place the order........................................................passed
+And Fill form details with name "name" and country "country" and city "city" and card "3435" and month "12" and year "2022".passed
+And Purcase the Order.......................................................passed
+And Validate purchase id and amount in purchase order confirmation message..passed
+Then Close the Browser......................................................passed
+And Update test data file...................................................passed
+And Generate HTML report....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

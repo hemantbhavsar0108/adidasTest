@@ -1,0 +1,573 @@
+2022-01-11 13:34:03 INFO  TestData:45 - Started readTestDataFile method execution
+2022-01-11 13:34:03 INFO  CommonFunction:71 - readExcelFile method execution started
+2022-01-11 13:34:04 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:04 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:04 INFO  TestData:60 - test data set up is completed
+2022-01-11 13:34:04 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:04 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:04 INFO  UIFunction:35 - Started launchApplication method execution
+2022-01-11 13:34:04 INFO  BrowserFactory:29 - launchApplication method execution started
+2022-01-11 13:34:05 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:05 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:05 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:05 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:18 INFO  BrowserFactory:70 - Launch the application URL https://www.demoblaze.com/index.html on Browser Chrome
+2022-01-11 13:34:19 INFO  BrowserFactory:73 - Launch the application URL https://www.demoblaze.com/index.html on Browser Chrome
+2022-01-11 13:34:19 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:19 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:19 INFO  UIFunction:39 - launchApplication method execution is completed
+2022-01-11 13:34:19 INFO  StepDefinition:46 - select_first_product_from_displayed_product method execution started
+2022-01-11 13:34:19 INFO  UIFunction:123 - Started searchProduct method execution
+2022-01-11 13:34:19 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:19 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:19 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:19 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:19 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:19 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:19 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:19 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:19 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:19 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:19 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:19 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:19 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:19 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:19 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:19 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:19 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:19 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:19 INFO  UIFunction:157 - searchProduct method execution completed sucessfully
+2022-01-11 13:34:19 INFO  StepDefinition:62 - add_first_product_to_cart method execution started
+2022-01-11 13:34:19 INFO  UIFunction:167 - Started addProductToCart method execution
+2022-01-11 13:34:19 INFO  WebDriverFunctions:36 - Started clickObject method execution
+2022-01-11 13:34:19 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:19 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:21 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:21 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:21 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:21 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:21 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:21 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:21 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:21 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:21 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:21 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:21 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:21 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:21 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:21 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:21 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:22 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:22 INFO  WebDriverFunctions:54 - clickObject method execution completed successfully
+2022-01-11 13:34:22 INFO  UIFunction:173 - click on Add to cart button
+2022-01-11 13:34:22 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:22 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:22 INFO  WebDriverFunctions:363 - Started applyExplicitWaitForAlertPresent method execution
+2022-01-11 13:34:22 INFO  UIFunction:184 - Displayed the confirmation message :Product added
+2022-01-11 13:34:22 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:22 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:22 INFO  UIFunction:187 - Alert accepted suceessfuly
+2022-01-11 13:34:22 INFO  UIFunction:204 - addProductToCart method execution completed sucessfully
+2022-01-11 13:34:22 INFO  StepDefinition:77 - validate_that_correct_first_product_is_selected method execution started
+2022-01-11 13:34:22 INFO  UIFunction:213 - Started validateAddToCartProduct method execution
+2022-01-11 13:34:22 INFO  WebDriverFunctions:241 - Started getText method execution
+2022-01-11 13:34:22 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:22 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:24 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:24 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:24 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:24 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:24 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:24 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:24 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:24 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:24 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:24 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:24 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:24 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:24 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:24 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:24 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:24 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:24 INFO  WebDriverFunctions:249 - getText method execution is completed
+2022-01-11 13:34:24 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:24 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:24 INFO  StepDefinition:92 - navigate_to_product_selection_home_page method execution started
+2022-01-11 13:34:24 INFO  UIFunction:299 - Started gotoHomePage method execution
+2022-01-11 13:34:24 INFO  WebDriverFunctions:36 - Started clickObject method execution
+2022-01-11 13:34:24 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:24 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:26 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:26 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:26 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:26 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:26 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:26 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:26 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:26 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:26 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:26 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:26 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:26 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:26 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:26 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:26 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:26 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:27 INFO  WebDriverFunctions:54 - clickObject method execution completed successfully
+2022-01-11 13:34:27 INFO  UIFunction:303 - Navigated to Home page
+2022-01-11 13:34:27 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:27 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:27 INFO  StepDefinition:107 - select_second_product_from_displayed_product method execution started
+2022-01-11 13:34:27 INFO  UIFunction:123 - Started searchProduct method execution
+2022-01-11 13:34:27 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:27 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:27 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:27 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:27 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:27 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:27 INFO  WebDriverFunctions:107 - Error occured in getElement method 
+2022-01-11 13:34:27 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:27 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:27 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:27 INFO  WebDriverFunctions:132 - Error occured in isDisplayed method 
+2022-01-11 13:34:27 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:27 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:27 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:29 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:29 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:29 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:29 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:29 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:29 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:29 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:29 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:29 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:29 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:29 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:29 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:29 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:29 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:29 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:29 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:31 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:31 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:31 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:31 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:31 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:31 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:31 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:31 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:31 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:31 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:31 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:31 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:31 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:31 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:33 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:33 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:33 INFO  UIFunction:157 - searchProduct method execution completed sucessfully
+2022-01-11 13:34:33 INFO  StepDefinition:122 - select_first_product_from_displayed_product method execution started
+2022-01-11 13:34:33 INFO  UIFunction:167 - Started addProductToCart method execution
+2022-01-11 13:34:33 INFO  WebDriverFunctions:36 - Started clickObject method execution
+2022-01-11 13:34:33 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:33 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:35 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:35 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:35 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:35 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:35 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:35 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:35 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:35 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:35 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:35 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:35 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:35 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:35 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:35 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:35 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:35 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:35 INFO  WebDriverFunctions:54 - clickObject method execution completed successfully
+2022-01-11 13:34:35 INFO  UIFunction:173 - click on Add to cart button
+2022-01-11 13:34:35 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:35 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:35 INFO  WebDriverFunctions:363 - Started applyExplicitWaitForAlertPresent method execution
+2022-01-11 13:34:36 INFO  UIFunction:184 - Displayed the confirmation message :Product added
+2022-01-11 13:34:36 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:36 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:36 INFO  UIFunction:187 - Alert accepted suceessfuly
+2022-01-11 13:34:36 INFO  UIFunction:204 - addProductToCart method execution completed sucessfully
+2022-01-11 13:34:36 INFO  StepDefinition:137 - validate_that_correct_second_product_is_selected method execution started
+2022-01-11 13:34:36 INFO  UIFunction:213 - Started validateAddToCartProduct method execution
+2022-01-11 13:34:36 INFO  WebDriverFunctions:241 - Started getText method execution
+2022-01-11 13:34:36 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:36 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:38 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:38 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:38 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:38 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:38 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:38 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:38 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:38 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:38 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:38 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:38 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:38 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:38 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:38 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:38 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:38 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:38 INFO  WebDriverFunctions:249 - getText method execution is completed
+2022-01-11 13:34:38 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:38 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:38 INFO  StepDefinition:152 - navigate_to_cart_page method execution started
+2022-01-11 13:34:38 INFO  UIFunction:236 - Started validateAddToCartProduct method execution
+2022-01-11 13:34:38 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:38 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:40 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:40 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:40 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:40 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:40 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:40 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:40 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:40 INFO  WebDriverFunctions:36 - Started clickObject method execution
+2022-01-11 13:34:40 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:40 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:42 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:42 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:42 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:42 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:42 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:42 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:42 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:42 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:42 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:42 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:42 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:42 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:42 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:42 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:42 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:42 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:43 INFO  WebDriverFunctions:54 - clickObject method execution completed successfully
+2022-01-11 13:34:43 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:43 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:43 INFO  UIFunction:245 - Navigated to cart page
+2022-01-11 13:34:43 INFO  UIFunction:255 - validateAddToCartProduct method execution completed sucessfully
+2022-01-11 13:34:43 INFO  StepDefinition:167 - delete_second_product_from_cart_selection_and_Validat_deleted_product method execution started
+2022-01-11 13:34:43 INFO  UIFunction:319 - Started placeOrder method execution
+2022-01-11 13:34:43 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:43 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:45 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:45 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:45 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:45 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:45 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:45 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:45 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:45 INFO  WebDriverFunctions:36 - Started clickObject method execution
+2022-01-11 13:34:45 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:45 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:47 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:47 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:47 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:47 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:47 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:47 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:47 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:47 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:47 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:47 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:47 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:47 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:47 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:47 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:47 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:47 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:47 INFO  WebDriverFunctions:54 - clickObject method execution completed successfully
+2022-01-11 13:34:47 INFO  UIFunction:324 - Clicked on place order button
+2022-01-11 13:34:47 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:47 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:47 INFO  UIFunction:339 - Started placeOrder method execution
+2022-01-11 13:34:47 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:47 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:49 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:49 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:49 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:49 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:49 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:49 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:49 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:49 INFO  WebDriverFunctions:282 - Started getText method execution
+2022-01-11 13:34:49 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:49 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:51 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:51 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:51 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:51 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:51 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:51 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:51 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:51 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:51 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:51 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:51 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:51 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:51 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:51 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:51 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:51 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:51 INFO  WebDriverFunctions:290 - getText method execution is completed
+2022-01-11 13:34:51 INFO  UIFunction:346 - set name in form detailsname
+2022-01-11 13:34:51 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:51 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:51 INFO  WebDriverFunctions:282 - Started getText method execution
+2022-01-11 13:34:51 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:51 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:53 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:53 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:53 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:53 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:53 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:53 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:53 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:53 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:53 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:53 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:53 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:53 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:53 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:53 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:53 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:53 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:53 INFO  WebDriverFunctions:290 - getText method execution is completed
+2022-01-11 13:34:53 INFO  UIFunction:350 - set country in form detailscountry
+2022-01-11 13:34:53 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:53 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:53 INFO  WebDriverFunctions:282 - Started getText method execution
+2022-01-11 13:34:53 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:53 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:56 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:56 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:56 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:56 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:56 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:56 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:56 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:56 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:56 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:56 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:56 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:56 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:56 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:56 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:56 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:56 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:56 INFO  WebDriverFunctions:290 - getText method execution is completed
+2022-01-11 13:34:56 INFO  UIFunction:354 - set city in form detailscity
+2022-01-11 13:34:56 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:56 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:56 INFO  WebDriverFunctions:282 - Started getText method execution
+2022-01-11 13:34:56 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:56 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:34:58 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:58 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:58 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:58 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:58 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:58 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:34:58 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:34:58 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:34:58 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:34:58 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:58 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:58 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:34:58 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:34:58 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:34:58 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:34:58 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:34:58 INFO  WebDriverFunctions:290 - getText method execution is completed
+2022-01-11 13:34:58 INFO  UIFunction:358 - set card in form details3435
+2022-01-11 13:34:58 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:34:58 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:34:58 INFO  WebDriverFunctions:282 - Started getText method execution
+2022-01-11 13:34:58 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:34:58 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:35:00 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:00 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:00 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:00 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:00 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:00 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:35:00 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:35:00 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:35:00 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:00 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:00 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:00 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:00 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:00 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:35:00 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:35:00 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:35:00 INFO  WebDriverFunctions:290 - getText method execution is completed
+2022-01-11 13:35:00 INFO  UIFunction:362 - set month in form details12
+2022-01-11 13:35:00 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:00 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:00 INFO  WebDriverFunctions:282 - Started getText method execution
+2022-01-11 13:35:00 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:35:00 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:35:02 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:02 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:02 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:02 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:02 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:02 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:35:02 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:35:02 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:35:02 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:02 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:02 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:02 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:02 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:02 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:35:02 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:35:02 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:35:02 INFO  WebDriverFunctions:290 - getText method execution is completed
+2022-01-11 13:35:02 INFO  UIFunction:367 - set year in form details2022
+2022-01-11 13:35:02 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:02 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:02 INFO  UIFunction:382 - Started purchaseOrder method execution
+2022-01-11 13:35:02 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:35:02 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:35:04 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:04 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:04 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:04 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:04 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:04 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:35:04 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:35:04 INFO  WebDriverFunctions:262 - Started scrollIntoView method execution
+2022-01-11 13:35:05 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:35:05 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:05 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:05 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:05 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:05 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:05 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:35:05 INFO  WebDriverFunctions:269 - scrollIntoView method execution is completed
+2022-01-11 13:35:05 INFO  WebDriverFunctions:36 - Started clickObject method execution
+2022-01-11 13:35:05 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:35:05 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:35:07 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:07 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:07 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:07 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:07 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:07 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:35:07 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:35:07 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:35:07 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:07 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:07 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:07 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:07 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:07 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:35:07 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:35:08 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:35:08 INFO  WebDriverFunctions:54 - clickObject method execution completed successfully
+2022-01-11 13:35:08 INFO  UIFunction:388 - Clicked on purchase order button
+2022-01-11 13:35:08 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:08 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:08 INFO  UIFunction:400 - Started purchaseOrder method execution
+2022-01-11 13:35:11 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:35:11 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:35:13 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:13 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:13 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:13 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:13 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:13 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:35:13 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:35:13 INFO  WebDriverFunctions:241 - Started getText method execution
+2022-01-11 13:35:13 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:35:13 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:35:15 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:15 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:15 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:15 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:15 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:15 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:35:15 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:35:15 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:35:15 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:15 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:15 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:15 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:15 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:15 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:35:15 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:35:15 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:35:15 INFO  WebDriverFunctions:249 - getText method execution is completed
+2022-01-11 13:35:15 INFO  UIFunction:429 - Started getPurchaseDetail method execution
+2022-01-11 13:35:15 INFO  UIFunction:409 - Purchase Id displayed in confirmation message: 4940794
+2022-01-11 13:35:15 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:15 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:15 INFO  UIFunction:429 - Started getPurchaseDetail method execution
+2022-01-11 13:35:15 INFO  UIFunction:412 - amount Id displayed in confirmation message: 700 USD
+2022-01-11 13:35:15 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:15 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:15 INFO  UIFunction:417 - Clicked on purchase order button
+2022-01-11 13:35:15 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:15 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:15 INFO  UIFunction:400 - Started purchaseOrder method execution
+2022-01-11 13:35:18 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:35:18 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:35:20 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:20 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:20 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:20 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:20 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:20 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:35:20 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:35:20 INFO  WebDriverFunctions:241 - Started getText method execution
+2022-01-11 13:35:20 INFO  WebDriverFunctions:145 - Started applyExplicitWait method execution
+2022-01-11 13:35:20 INFO  WebDriverFunctions:189 - Started getElementBy method execution
+2022-01-11 13:35:22 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:22 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:22 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:22 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:22 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:22 INFO  WebDriverFunctions:223 - getElementBy method execution completed successfully
+2022-01-11 13:35:22 INFO  WebDriverFunctions:175 - applyExplicitWait method execution completed successfully
+2022-01-11 13:35:22 INFO  WebDriverFunctions:70 - Started getElement method execution
+2022-01-11 13:35:22 INFO  CommonFunction:103 - readPropertyValue method execution started
+2022-01-11 13:35:22 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:22 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:22 INFO  CommonFunction:34 - getConfigProperty method execution started
+2022-01-11 13:35:22 INFO  CommonFunction:51 - getConfigProperty method execution completed successfully
+2022-01-11 13:35:22 INFO  WebDriverFunctions:103 - getElement method execution completed successfully
+2022-01-11 13:35:22 INFO  WebDriverFunctions:121 - Started isDisplayed method execution
+2022-01-11 13:35:22 INFO  WebDriverFunctions:136 - isDisplayed method execution completed successfully
+2022-01-11 13:35:22 INFO  WebDriverFunctions:249 - getText method execution is completed
+2022-01-11 13:35:22 INFO  UIFunction:429 - Started getPurchaseDetail method execution
+2022-01-11 13:35:22 INFO  UIFunction:409 - Purchase Id displayed in confirmation message: 4940794
+2022-01-11 13:35:22 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:22 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:22 INFO  UIFunction:429 - Started getPurchaseDetail method execution
+2022-01-11 13:35:22 INFO  UIFunction:412 - amount Id displayed in confirmation message: 700 USD
+2022-01-11 13:35:22 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:22 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:22 INFO  UIFunction:417 - Clicked on purchase order button
+2022-01-11 13:35:22 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:22 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:22 INFO  UIFunction:74 - Started quitBrowser method execution
+2022-01-11 13:35:24 INFO  UIFunction:78 - Close the browser
+2022-01-11 13:35:24 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:24 INFO  ReportLib:308 - getDateTime method execution started
+2022-01-11 13:35:24 INFO  TestData:73 - Started updateTestStatus method execution
+2022-01-11 13:35:24 INFO  StepDefinition:214 - generate_HTML_report method execution started
+2022-01-11 13:35:24 INFO  ReportLib:30 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:24 INFO  ReportLib:236 - CreateDetailHTMLReport method execution started
+2022-01-11 13:35:24 INFO  ReportLib:308 - getDateTime method execution started
