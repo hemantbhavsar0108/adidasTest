@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4590" started-at="2022-01-09T19:51:17 EET" finished-at="2022-01-09T19:51:22 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4590" started-at="2022-01-09T19:51:17 EET" finished-at="2022-01-09T19:51:22 EET">
+      <class name="com.adidas.test.com.adidas.test.cucumber.api.testngsuite.Testcase004_deleteMethodExecution">
+        <test-method status="PASS" signature="deleteMethodExecution()[pri:0, instance:com.adidas.test.com.adidas.test.cucumber.api.testngsuite.Testcase004_deleteMethodExecution@26a7b76d]" name="deleteMethodExecution" duration-ms="4511" started-at="2022-01-09T19:51:18 EET" finished-at="2022-01-09T19:51:22 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMethodExecution -->
+      </class> <!-- com.adidas.test.com.adidas.test.cucumber.api.testngsuite.Testcase004_deleteMethodExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

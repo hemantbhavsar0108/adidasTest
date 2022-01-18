@@ -1,0 +1,210 @@
+2022-01-09 18:19:57 INFO  StepDefinition:36 - set up the framework
+2022-01-09 18:20:04 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 18:39:35 INFO  StepDefinition:36 - set up the framework
+2022-01-09 18:39:35 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 18:39:40 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 18:39:40 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 18:39:40 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:39:40 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 18:39:40 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 18:39:41 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 18:39:41 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:39:41 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 18:39:41 INFO  PetServiceHelper:102 - json  created with id:105 status with value :sold
+2022-01-09 18:39:42 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet/TBU
+2022-01-09 18:39:42 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:39:42 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 18:39:43 INFO  PetServiceHelper:130 - Put method executed sucessfully :/api/v3/user/
+2022-01-09 18:50:28 INFO  StepDefinition:36 - set up the framework
+2022-01-09 18:50:28 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 18:50:31 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 18:50:31 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 18:50:31 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:50:31 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 18:50:31 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 18:50:32 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 18:50:32 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:50:32 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 18:50:32 INFO  PetServiceHelper:102 - json  created with id:105 status with value :sold
+2022-01-09 18:50:34 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 18:50:34 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:50:34 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 18:50:35 INFO  PetServiceHelper:130 - Put method executed sucessfully :/api/v3/user/
+2022-01-09 18:54:50 INFO  StepDefinition:36 - set up the framework
+2022-01-09 18:54:50 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 18:54:54 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 18:54:54 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 18:54:54 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:54:54 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 18:54:54 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 18:54:55 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 18:54:55 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:54:55 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 18:54:55 INFO  PetServiceHelper:102 - json  created with id:105 status with value :sold
+2022-01-09 18:54:57 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 18:54:57 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:54:57 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 18:54:58 INFO  PetServiceHelper:130 - Put method executed sucessfully :api/v3/pet/1000
+2022-01-09 18:57:26 INFO  StepDefinition:36 - set up the framework
+2022-01-09 18:57:26 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 18:57:29 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 18:57:29 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 18:57:29 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:57:29 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 18:57:29 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 18:57:30 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 18:57:30 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:57:30 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 18:57:30 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 18:57:31 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 18:57:31 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 18:57:31 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 18:57:32 INFO  PetServiceHelper:130 - Put method executed sucessfully :api/v3/pet/121
+2022-01-09 19:02:32 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:02:32 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:02:35 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:02:35 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:02:35 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:02:35 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:02:35 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:02:36 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:02:36 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:02:36 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:02:36 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:02:37 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:02:37 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:02:37 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:02:38 INFO  PetServiceHelper:130 - Put method executed sucessfully :api/v3/pet/121
+2022-01-09 19:06:29 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:06:29 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:06:33 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:06:33 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:06:33 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:06:33 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:06:33 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:06:34 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:06:34 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:06:34 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:06:34 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:06:35 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:06:35 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:06:35 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:06:36 INFO  PetServiceHelper:130 - Delete method executed sucessfully :api/v3/pet/121
+2022-01-09 19:08:21 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:08:21 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:08:25 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:08:25 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:08:25 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:08:25 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:08:25 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:08:26 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:08:26 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:08:26 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:08:26 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:08:27 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:08:27 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:08:27 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:11:00 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:11:01 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:11:03 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:11:03 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:11:03 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:11:03 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:11:03 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:11:04 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:11:04 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:11:04 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:11:04 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:11:06 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:11:06 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:11:06 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:11:07 INFO  PetServiceHelper:132 - Delete method executed sucessfully :api/v3/pet/121
+2022-01-09 19:14:54 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:14:54 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:14:57 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:14:57 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:14:57 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:14:57 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:14:57 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:14:58 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:14:58 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:14:58 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:14:58 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:14:59 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:14:59 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:14:59 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:15:00 INFO  PetServiceHelper:132 - Delete method executed sucessfully :api/v3/pet/121
+2022-01-09 19:15:17 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:15:17 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:15:21 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:15:21 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:15:21 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:15:21 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:15:21 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:15:22 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:15:22 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:15:22 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:15:22 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:15:23 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:15:23 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:15:23 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:15:23 INFO  PetServiceHelper:132 - Delete method executed sucessfully :api/v3/pet/121
+2022-01-09 19:17:51 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:17:51 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:17:55 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:17:55 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:17:55 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:17:55 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:17:55 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:17:56 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:17:56 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:17:56 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:17:56 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:17:57 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:17:57 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:17:57 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:18:24 INFO  PetServiceHelper:132 - Delete method executed sucessfully :api/v3/pet/121
+2022-01-09 19:22:39 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:22:39 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:22:43 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:22:43 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:22:43 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:22:43 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:22:43 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:22:44 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:22:44 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:22:44 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:22:44 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:22:45 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:22:45 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:22:45 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:25:51 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:25:51 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:25:54 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:25:54 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:25:54 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:25:54 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:25:54 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:25:55 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:25:55 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:25:55 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:25:55 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:25:56 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:25:56 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:25:56 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:25:57 INFO  PetServiceHelper:132 - Delete method executed sucessfully :api/v3/pet/121
+2022-01-09 19:27:47 INFO  StepDefinition:36 - set up the framework
+2022-01-09 19:27:47 INFO  PetServiceHelper:26 - getPetByStatus method execution started
+2022-01-09 19:27:51 INFO  PetServiceHelper:36 - get method executed succewfully/api/v3/pet/findByStatus?status=available
+2022-01-09 19:27:51 INFO  StepDefinition:43 - get method executed succesfully
+2022-01-09 19:27:51 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:27:51 INFO  PetServiceHelper:54 - createPetService method execution started
+2022-01-09 19:27:51 INFO  PetServiceHelper:71 - Created json  with id:121 name :name_pet_121 status:available
+2022-01-09 19:27:52 INFO  PetServiceHelper:74 - Post method executed sucessfully :/api/v3/pet
+2022-01-09 19:27:52 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:27:52 INFO  PetServiceHelper:84 - updatePetService method execution started
+2022-01-09 19:27:52 INFO  PetServiceHelper:102 - json  created with id:121 status with value :sold
+2022-01-09 19:27:54 INFO  PetServiceHelper:105 - Put method executed sucessfully :/api/v3/pet
+2022-01-09 19:27:54 INFO  PetServiceHelper:21 - Set base URIhttps://petstore3.swagger.io
+2022-01-09 19:27:54 INFO  PetServiceHelper:116 - deletePetService method execution started
+2022-01-09 19:28:03 INFO  PetServiceHelper:132 - Delete method executed sucessfully :api/v3/pet/121
